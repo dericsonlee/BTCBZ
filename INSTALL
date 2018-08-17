@@ -1,0 +1,9 @@
+Building BTCBITZCoin
+
+See doc/readme-qt.rst for instructions on building BTCBITZCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BTCBITZCoin.
+
+See doc/build-*.txt for instructions on building BTCBITZCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BTCBITZCoin.
